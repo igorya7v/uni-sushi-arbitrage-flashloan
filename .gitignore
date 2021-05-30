@@ -1,0 +1,10 @@
+#folders
+node_modules
+build
+coverage
+dist
+cache
+artifacts
+
+#files
+**.env
